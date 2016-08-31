@@ -1,0 +1,8 @@
+<settings>
+    <category label="32001">
+        <setting id="group" label="Group to use" type="select" />
+        <setting default="5000" id="dim_duration" label="Dim duration" type="number" value="5000" />
+        <setting default="5000" id="restore_duration" label="Restore duration" type="number" value="5000" />
+        <setting type="sep" />
+    </category>
+</settings>
